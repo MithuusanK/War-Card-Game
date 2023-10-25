@@ -2,10 +2,6 @@
 
 
 /*
-    Below is the function stub for deal. Add as many helper functions
-    as you like, but the deal function should not be modified. Just
-    fill it in.
-    
     Test your code by running 'cargo test' from the war_rs directory.
 */
 
