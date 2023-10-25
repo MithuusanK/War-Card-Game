@@ -1,5 +1,5 @@
 # War-Card-Game
-The war Card game is implemented in three different programming languages Elixir, Haskell, and Rust.
+The war Card game is implemented in three different Functional programming languages Elixir, Haskell, and Rust.
 
 
 In this simulated game of War, you begin with a shuffled deck of 52 cards, which has already been shuffled for you. The cards are distributed alternately to two players, resulting in each player having 26 cards. In each round, both players reveal the top card from their respective piles. The player with the higher-ranked card wins both cards, and these cards are placed at the bottom of their pile.
